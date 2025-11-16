@@ -101,7 +101,7 @@ https://colab.research.google.com/drive/1f6yDKOE4cscW8jCYjM2K-brGlk3MEmGr?usp=sh
 
 # Output
 
-<img width="944" height="640" alt="image" src="https://github.com/user-attachments/assets/02ed8518-fc78-433f-a4d5-763be58cca84" />
+<img width="832" height="670" alt="image" src="https://github.com/user-attachments/assets/4ae65144-10f0-42bf-b80e-6b20ae324738" />
 
 
 # Result
